@@ -1,5 +1,3 @@
-<img width="100%" height="auto" src="https://i.imgur.com/iXuL1HG.png" height="175px"/>
-
 <h1 align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?font=Poppins&weight=600&size=40&center=true&vCenter=true&width=600&height=100&duration=4000&lines=Hello,+World!+👋;I'm+Abhinav+Kumar+Singh!;Welcome+to+my+GitHub!;" />
 </h1>
@@ -23,7 +21,7 @@
   
   💡 Always eager to collaborate on **innovative projects and hackathons**
   
-  ⚡ Fun fact: **I once coded for 24 hours straight and debugged my way through 99 problems (but a bug ain't one)**
+  ⚡ Fun fact: **Once It took me 2 days just to boot into windows.**
 
 </div>
 
@@ -41,17 +39,6 @@
 
 <br/>
 
-<hr/>
-
-<div align="center">
-  <h2>🐍 My Contributions 🐍</h2>
-  <br>
-  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/salesp07/salesp07/output/github-contribution-grid-snake.svg" />
-  
-  <br/><br/>
-</div>
-
-<hr/>
 
 <h2 align="center">📊 GitHub Analytics</h2>
 
@@ -64,9 +51,6 @@
 
 <br/>
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Abhinavks1405&theme=dracula&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" />
-</p>
 
 <br/>
 
@@ -100,15 +84,5 @@
 <p align="center">💙 If you like my projects, Give them ⭐ and Share them!</p>
 
 <br/>
-
-<div align="center">
-<a href='https://ko-fi.com/abhinav' target='_blank'><img height='64' style='border:0px;height:64px;' src='https://storage.ko-fi.com/cdn/kofi1.png?v=3' border='0' alt='Buy Me a Coffee at ko-fi.com' /></a>
-</div>
-
-<br/>
-
-<h3 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Poppins&size=25&center=true&vCenter=true&width=600&height=100&duration=4000&lines=Thanks+for+visiting!+✌️;Shoot+me+a+message+on+LinkedIn!;I'm+always+down+to+collab+:)" />
-</h3>
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=footer"/>

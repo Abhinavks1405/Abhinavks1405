@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Poppins&weight=600&size=40&center=true&vCenter=true&width=600&height=100&duration=4000&lines=Hello,+World!+👋;I'm+Abhinav+Kumar+Singh!;Welcome+to+my+GitHub!;" />
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Poppins&weight=600&size=40&center=true&vCenter=true&width=600&height=100&duration=4000&lines=Hello,+World!+👋;I'm+Abhinav!;Welcome+to+my+GitHub!;" />
 </h1>
 
 <h3 align="center">🚀 Passionate Software Developer | 🎓 B.Tech IT Student | 🌟 Lifelong Learner</h3>

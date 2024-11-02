@@ -32,9 +32,8 @@
 <br/>
 
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=html,css,javascript,vscode,github,figma,git" />
+    <img src="https://skillicons.dev/icons?i=html,css,javascript,vscode,github,figma,git,python,mongodb,c,java,mysql,flask,dart" />
     <br/>
-    <img src="https://skillicons.dev/icons?i=python,mongodb,c,java,mysql,flask,dart" />
 </div>
 
 <br/>
@@ -56,7 +55,7 @@
 
 <div align="center">
   <img width="49%" height="195px" src="https://github-readme-streak-stats.herokuapp.com/?user=Abhinavks1405&theme=black-ice&hide_border=true&stroke=0000&background=0D1117&ring=00bfbf&fire=00bfbf&currStreakLabel=00bfbf" alt="Abhinav Kumar Singh's GitHub Streak" />
-  <img width="41%" height="195px" src="https://github-readme-activity-graph.vercel.app/graph?username=Abhinavks1405&theme=react-dark&hide_border=true&area=true" alt="Contribution Graph" />
+  <img width="50%" height="195px" src="https://github-readme-activity-graph.vercel.app/graph?username=Abhinavks1405&theme=react-dark&hide_border=true&area=true" alt="Contribution Graph" />
 </div>
 
 <br/>

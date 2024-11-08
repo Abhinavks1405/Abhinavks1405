@@ -44,13 +44,13 @@
 ## Let's Connect
 <div class="grid grid-cols-3 justify-center gap-4">
   <a href="mailto:abhinavkumarsingh1405@gmail.com">
-    <img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+    <img src="https://skillicons.dev/icons?i=gmail" />
   </a>
   <a href="https://www.linkedin.com/in/abhinavkumarsingh1405/">
-    <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+    <img src="https://skillicons.dev/icons?i=linkedin" />
   </a>
   <a href="https://your-portfolio-link.com">
-    <img src="https://img.shields.io/badge/-Portfolio-000000?style=for-the-badge&logo=react&logoColor=white" />
+    <img src="https://skillicons.dev/icons?i=portfolio" />
   </a>
 </div>
 

@@ -3,8 +3,8 @@
 </h1>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Abhinavks1405&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
-  <img src="https://img.shields.io/github/followers/Abhinavks1405?label=Followers&style=social" alt="followers" />
+  <img src="https://komarev.com/ghpvc/?username=Abhinavexists&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
+  <img src="https://img.shields.io/github/followers/Abhinavexists?label=Followers&style=social" alt="followers" />
 </p>
 
 ## About Me
@@ -33,12 +33,12 @@
 
 ## GitHub Analytics
 <div class="grid grid-cols-1 md:grid-cols-2 gap-4">
-  <img src="https://github-readme-stats.vercel.app/api?username=Abhinavks1405&show_icons=true&count_private=true&hide_border=true&title_color=00bfbf&icon_color=00bfbf&text_color=c9d1d9&bg_color=0d1117" alt="Abhinav's GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abhinavks1405&layout=compact&hide_border=true&title_color=00bfbf&text_color=00bfbf&bg_color=0d1117" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Abhinavexists&show_icons=true&count_private=true&hide_border=true&title_color=00bfbf&icon_color=00bfbf&text_color=c9d1d9&bg_color=0d1117" alt="Abhinav's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abhinavexists&layout=compact&hide_border=true&title_color=00bfbf&text_color=00bfbf&bg_color=0d1117" alt="Top Languages" />
 </div>
 <div class="grid grid-cols-1 md:grid-cols-2 gap-4 mt-4">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Abhinavks1405&theme=black-ice&hide_border=true&stroke=0000&background=0D1117&ring=00bfbf&fire=00bfbf&currStreakLabel=00bfbf" alt="Abhinav's GitHub Streak" />
-  <img width="70%" src="https://github-readme-activity-graph.vercel.app/graph?username=Abhinavks1405&theme=react-dark&hide_border=true&area=true" alt="Contribution Graph" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Abhinavexists&theme=black-ice&hide_border=true&stroke=0000&background=0D1117&ring=00bfbf&fire=00bfbf&currStreakLabel=00bfbf" alt="Abhinav's GitHub Streak" />
+  <img width="70%" src="https://github-readme-activity-graph.vercel.app/graph?username=Abhinavexists&theme=react-dark&hide_border=true&area=true" alt="Contribution Graph" />
 </div>
 
 ## Let's Connect
